@@ -19,8 +19,7 @@ Jinja2==3.1.6
 jmespath==1.0.1
 kappa==0.6.0
 MarkupSafe==3.0.2
-more-itertools==10.6.0
-moto==2.2.8
+moto==5.1.1
 packaging==24.2
 placebo==0.9.0
 pluggy==1.5.0
