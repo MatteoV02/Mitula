@@ -71,8 +71,7 @@ jobs:
           source venv/bin/activate  # Activarlo
           cd Parser
           ls
-          zappa update dev_p
-
+          zappa deploy dev_p
       # 🔹 Paso 7: Verificar despliegue
       - name: Check Zappa Status
         run: |
